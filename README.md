@@ -8,7 +8,7 @@ The application uses a fine-tuned **T5-small model** to generate concise summari
 
 ## 🚀 Live Demo
 
-🔗 **Try the application:** [Open NewsSnap AI](YOUR_STREAMLIT_APP_LINK)
+🔗 **Try the application:** [Open NewsSnap AI](https://news-article-summarizer-gbc8vzxhtumm37bcu7chnk.streamlit.app/)
 
 ## ✨ Features
 
