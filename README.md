@@ -69,7 +69,7 @@ The output should not be treated as a fully accurate representation of the origi
 
 **Vashundthera Vashu**
 
-- LinkedIn: [Connect with me](www.linkedin.com/in/vashundthera7/)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/vashundthera7/)
 - GitHub: [View my repositories](https://github.com/purple279)
 
 ---
